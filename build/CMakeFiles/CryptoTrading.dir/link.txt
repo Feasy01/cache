@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/CryptoTrading.dir/src/main.cpp.o CMakeFiles/CryptoTrading.dir/src/collector/server/Server.cpp.o CMakeFiles/CryptoTrading.dir/src/collector/server/MockServer.cpp.o CMakeFiles/CryptoTrading.dir/src/collector/server/BaseServer.cpp.o CMakeFiles/CryptoTrading.dir/src/utils/Lz4Utils.cpp.o -o CryptoTrading  -llz4 

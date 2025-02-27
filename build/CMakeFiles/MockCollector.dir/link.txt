@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MockCollector.dir/src/main_collector.cpp.o CMakeFiles/MockCollector.dir/src/collector/server/Server.cpp.o CMakeFiles/MockCollector.dir/src/collector/server/MockServer.cpp.o CMakeFiles/MockCollector.dir/src/collector/server/BaseServer.cpp.o CMakeFiles/MockCollector.dir/src/utils/Lz4Utils.cpp.o -o MockCollector  -llz4 

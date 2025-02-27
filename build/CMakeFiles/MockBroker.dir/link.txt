@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MockBroker.dir/src/main_broker.cpp.o CMakeFiles/MockBroker.dir/src/broker/Server.cpp.o -o MockBroker  -llz4 

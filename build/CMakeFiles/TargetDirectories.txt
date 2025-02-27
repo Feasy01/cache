@@ -1,0 +1,5 @@
+/home/walczaksz/projects/cpp-testy/build/CMakeFiles/MockCollector.dir
+/home/walczaksz/projects/cpp-testy/build/CMakeFiles/MockBroker.dir
+/home/walczaksz/projects/cpp-testy/build/CMakeFiles/MockClient.dir
+/home/walczaksz/projects/cpp-testy/build/CMakeFiles/edit_cache.dir
+/home/walczaksz/projects/cpp-testy/build/CMakeFiles/rebuild_cache.dir

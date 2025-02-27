@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/MockClient.dir/src/main_client.cpp.o CMakeFiles/MockClient.dir/src/client/Client.cpp.o -o MockClient 
